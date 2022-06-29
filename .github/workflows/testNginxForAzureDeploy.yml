@@ -3,6 +3,7 @@
 name: Test Github action to update NGINX for Azure configurations
 on:
   schedule:
+    - push
     - cron:  '0 20 * * *'
 
 env:
