@@ -1,4 +1,4 @@
-# NGINX for Azure Deployment Action
+# NGINX for Azure Deployment Action  
 
 This action supports managing the configuration of an [NGINX for Azure](https://docs.nginx.com/nginx-for-azure/quickstart/overview/) deployment in a GitHub repository. It enables continuous deployment through GitHub workflows to automatically update the NGINX for Azure deployment when changes are made to the NGINX configuration files stored in the respository.
 
